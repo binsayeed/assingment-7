@@ -1,0 +1,8 @@
+.opacity{
+    border-top:1px solid #796c6c ;
+    border-bottom: 1px solid #ddd;
+    padding: 1.5rem 0;
+    border-image: radial-gradient(#423737, #fff);
+    border-image-slice:1 ;
+}
+.rating{color: #fb8200;}
